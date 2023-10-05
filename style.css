@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+  }
+  
+  body {
+    color: white;
+  }
+  
+  main {
+    background-color: black;
+  }
+  
+  h1,
+  h3,
+  div {
+    font-family: Arial;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
